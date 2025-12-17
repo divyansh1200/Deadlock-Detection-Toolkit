@@ -1,3 +1,4 @@
+# Main program file
 
 from banker import is_safe
 from graph import draw_graph
@@ -52,3 +53,4 @@ else:
     print("\nDEADLOCK detected!")
 
 draw_graph(n, m, alloc)
+
