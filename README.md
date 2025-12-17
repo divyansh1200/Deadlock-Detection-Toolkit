@@ -20,3 +20,6 @@ using Banker's Algorithm.
 
 ## Author
 Divyansh Vaid
+
+This project is maintained using GitHub.
+
